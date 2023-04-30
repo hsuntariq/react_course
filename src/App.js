@@ -1,5 +1,5 @@
 import Nav from './hooks/components/Nav';
-import File from './hooks/useState/ArrayState';
+import File from './hooks/useEffect/fetchdata/FetchData';
 
 function App() {
   return (
